@@ -1,0 +1,257 @@
+{
+  "name": "HR Workforce Analytics",
+  "background": "#F6F2FF",
+  "foreground": "#2D2D2D",
+  "tableAccent": "#8B5CF6",
+
+  "dataColors": [
+    "#8B5CF6",
+    "#C084FC",
+    "#F472B6",
+    "#A78BFA",
+    "#D8B4FE",
+    "#7C3AED",
+    "#EC4899",
+    "#DDD6FE"
+  ],
+
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Inter",
+            "fontSize": 15,
+            "color": {
+              "solid": {
+                "color": "#2D2D2D"
+              }
+            }
+          }
+        ],
+
+        "labels": [
+          {
+            "fontFamily": "Inter",
+            "fontSize": 11,
+            "color": {
+              "solid": {
+                "color": "#555555"
+              }
+            }
+          }
+        ],
+
+        "categoryLabels": [
+          {
+            "fontFamily": "Inter",
+            "fontSize": 11,
+            "color": {
+              "solid": {
+                "color": "#555555"
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#F6F2FF"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+
+    "card": {
+      "*": {
+        "calloutValue": [
+          {
+            "fontFamily": "Inter",
+            "fontSize": 28,
+            "color": {
+              "solid": {
+                "color": "#202020"
+              }
+            }
+          }
+        ],
+
+        "categoryLabels": [
+          {
+            "fontFamily": "Inter",
+            "fontSize": 12,
+            "color": {
+              "solid": {
+                "color": "#666666"
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    "clusteredColumnChart": {
+      "*": {
+        "dataPoint": [
+          {
+            "defaultColor": {
+              "solid": {
+                "color": "#8B5CF6"
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    "clusteredBarChart": {
+      "*": {
+        "dataPoint": [
+          {
+            "defaultColor": {
+              "solid": {
+                "color": "#8B5CF6"
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    "lineChart": {
+      "*": {
+        "dataPoint": [
+          {
+            "defaultColor": {
+              "solid": {
+                "color": "#8B5CF6"
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    "donutChart": {
+      "*": {
+        "legend": [
+          {
+            "fontFamily": "Inter",
+            "fontSize": 11,
+            "color": {
+              "solid": {
+                "color": "#555555"
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    "pieChart": {
+      "*": {
+        "legend": [
+          {
+            "fontFamily": "Inter",
+            "fontSize": 11,
+            "color": {
+              "solid": {
+                "color": "#555555"
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    "tableEx": {
+      "*": {
+        "grid": [
+          {
+            "gridHorizontalColor": {
+              "solid": {
+                "color": "#ECECEC"
+              }
+            },
+            "gridVerticalColor": {
+              "solid": {
+                "color": "#ECECEC"
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    "matrix": {
+      "*": {
+        "grid": [
+          {
+            "gridHorizontalColor": {
+              "solid": {
+                "color": "#ECECEC"
+              }
+            },
+            "gridVerticalColor": {
+              "solid": {
+                "color": "#ECECEC"
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    "slicer": {
+      "*": {
+        "items": [
+          {
+            "fontFamily": "Inter",
+            "fontSize": 11,
+            "color": {
+              "solid": {
+                "color": "#444444"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+
+  "textClasses": {
+    "title": {
+      "fontFace": "Inter",
+      "fontSize": 16,
+      "color": "#2D2D2D"
+    },
+
+    "header": {
+      "fontFace": "Inter",
+      "fontSize": 13,
+      "color": "#2D2D2D"
+    },
+
+    "label": {
+      "fontFace": "Inter",
+      "fontSize": 11,
+      "color": "#555555"
+    },
+
+    "callout": {
+      "fontFace": "Inter",
+      "fontSize": 28,
+      "color": "#202020"
+    }
+  }
+}
