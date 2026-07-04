@@ -2,6 +2,8 @@
 
 An end-to-end Business Intelligence project that transforms raw Superstore sales data into actionable insights through a **Python ETL pipeline**, **PostgreSQL data warehouse**, and an interactive **Power BI dashboard**.
 
+🌐 **[Live Dashboard →](https://amarkayamkulam123-rgh.github.io/Superstore_Sales/)**  &nbsp;|&nbsp;  📊 **[Power BI Report →](https://app.powerbi.com/view?r=eyJrIjoiNzAxYzMzYjMtOWRmZC00MTM0LWJiNmEtNWQ5NDVhNGM1YjM0IiwidCI6ImUzODZiYjZhLTIzZDEtNGRiMy1hNTcxLTlhZGZiZmJhNDc5NiJ9)**
+
 ---
 
 ## 🏗️ Project Architecture
